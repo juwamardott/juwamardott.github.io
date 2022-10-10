@@ -1,0 +1,14 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+h1 {
+  font-style: italic;
+}
+#product {
+  background-color: #e2edff;
+}
